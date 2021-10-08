@@ -1,0 +1,77 @@
+/* css base.menu */
+#navegador_prueba{
+    
+    height: 70px;
+    background: rgb(17, 197, 17);
+    margin: auto;
+}
+
+#nombresNav{
+    font-size: 1,2rem;
+    margin-left: 50px;
+    
+}
+
+#navbarBase{
+    margin-left: 573px;
+
+}
+
+footer {
+    color: #ffffff;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 80%;
+}
+
+footer a {
+    margin-right: 10px;
+}
+
+footer hr {
+    background-color: #699c17;
+    border: solid 1px;
+}
+/* end css base.menu */
+
+
+/* ----------------------------------------------------------------------------------------------- */
+/* css index.html */
+
+.imagen_carrusel{
+    height: 390px;
+}
+
+.carrucel{
+    height: 390px;
+    margin: auto;
+}
+
+/* ----------------------------------------------------------------------------------------------- */
+/* css Login.html */
+
+
+
+.formulario_usuario{
+    margin-right: 202px;
+    margin-left: 202px;
+    margin-top: 39px;
+    margin-bottom: 27px;
+    padding-bottom: -4px;
+   
+}
+
+
+.imagen_icono{
+    
+    margin-bottom: 15px;
+    margin-left: 175px;
+}
+
+.foto_icono{
+    
+     width: 175px;
+ 
+}
